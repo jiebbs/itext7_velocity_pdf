@@ -15,7 +15,7 @@ import java.util.Map;
 public class Itext7pdfTest {
 
     @Test
-    public void test()throws Exception{
+    public void test(){
         Map<String,Object> paramValue = new HashMap<>();
 
         List<String> equations = new ArrayList<>();
